@@ -1,0 +1,7 @@
+D:\Student47-04\Desktop\LibraryTest1\LibraryTest1\obj\Debug\LibraryTest1.csproj.AssemblyReference.cache
+D:\Student47-04\Desktop\LibraryTest1\LibraryTest1\obj\Debug\LibraryTest1.csproj.CoreCompileInputs.cache
+D:\Student47-04\Desktop\LibraryTest1\LibraryTest1\bin\Debug\LibraryTest1.exe.config
+D:\Student47-04\Desktop\LibraryTest1\LibraryTest1\bin\Debug\LibraryTest1.exe
+D:\Student47-04\Desktop\LibraryTest1\LibraryTest1\bin\Debug\LibraryTest1.pdb
+D:\Student47-04\Desktop\LibraryTest1\LibraryTest1\obj\Debug\LibraryTest1.exe
+D:\Student47-04\Desktop\LibraryTest1\LibraryTest1\obj\Debug\LibraryTest1.pdb
